@@ -28,18 +28,7 @@ To get a preview of the CarSystem interface, check out our interactive Figma pro
 
 [CarSystem Prototype](https://www.figma.com/proto/NEendEB8IC00LpVFCGCBBH/CarSystemP?node-id=2-3&node-type=frame&t=BeTwBhVckNdnF3aP-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A315)
 
----
 
-## Technologies Used
-
-- **Frontend**: React.js, Redux, CSS3, HTML5
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (for storing user data and driving activities)
-- **Real-Time Processing**: WebSockets for live updates
-- **API Integrations**: Google Maps API (for location-based tracking) 
-- **Machine Learning**: TensorFlow.js for adaptive rate adjustments based on driving behavior
-
----
 
 ## Setup and Installation
 
